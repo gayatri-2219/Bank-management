@@ -1,0 +1,29 @@
+{
+    "gayatri": {
+        "password": "5567",
+        "balance": 85423.0,
+        "transactions": [
+            "Deposited $89990.0",
+            "Withdrew $4567.0"
+        ]
+    },
+    "gaaytri": {
+        "password": "5678",
+        "balance": 0.0,
+        "transactions": []
+    },
+    "gayatri22": {
+        "password": "12345",
+        "balance": 4981.0,
+        "transactions": [
+            "Deposited $5668.0",
+            "Withdrew $777.0",
+            "Deposited $90.0"
+        ]
+    },
+    "gggg": {
+        "password": "5555",
+        "balance": 0.0,
+        "transactions": []
+    }
+}
